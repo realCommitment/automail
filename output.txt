@@ -1,0 +1,16 @@
+Buildfile: C:\Users\mll81\Documents\Uni\Software Modelling\Project\Validation\build.xml
+
+init:
+    [mkdir] Created dir: C:\Users\mll81\Documents\Uni\Software Modelling\Project\Validation\tmp_unzipped\build
+
+compile:
+    [javac] C:\Users\mll81\Documents\Uni\Software Modelling\Project\Validation\build.xml:30: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 19 source files to C:\Users\mll81\Documents\Uni\Software Modelling\Project\Validation\tmp_unzipped\build
+
+dist:
+    [mkdir] Created dir: C:\Users\mll81\Documents\Uni\Software Modelling\Project\Validation\tmp_unzipped\dist\lib
+      [jar] Building jar: C:\Users\mll81\Documents\Uni\Software Modelling\Project\Validation\tmp_unzipped\dist\lib\Project1.jar
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+Default behaviour successful! 

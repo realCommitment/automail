@@ -18,5 +18,5 @@ input and output of the system under discussion along with when and where we cal
 
 Authors: 
 Glenn Phillips
-Eldar Kurmakaev
-Michael Lowe
+, Eldar Kurmakaev
+, Michael Lowe
